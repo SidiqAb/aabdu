@@ -7,5 +7,9 @@
 <body>
     <h1>hello world!</h1>
     <p>loran</p>
+    <ul>
+        <li>ayam</li>
+        <li>ikan</li>
+    </ul>
 </body>
 </html>
